@@ -44,7 +44,10 @@ background: #b9962d;
 <a class="btn" href="https://www.shopier.com/ParleGold" target="_blank">🛒 Shopier Mağaza</a>
 <a class="btn" href="mailto:cmlarlparle@gmail.com">📧 Mail Gönder</a>
 <a class="btn" href="tel:+905353519075">📞 Telefon (Arama)</a>
-<a class="btn" href="https://wa.me/905426534382" target="_blank">💬 WhatsApp</a>
+<a class="btn" href="https://wa.me/905426534382" target="_blank">💬 WhatsApp</a>   
+	•	📄 Parle Gold Dijital Kartvizit (HTML)
+	•	🔲 QR Kod Görseli (PNG)
+
 <a class="btn" href="https://maps.apple.com/place?coordinate=41.010225,28.974488&name=%C4%B0%C5%9Faretli%20Konum&map=transit" target="_blank">📍 İş Yeri Konumu</a>
 </body>
 </html>
