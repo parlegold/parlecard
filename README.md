@@ -43,7 +43,7 @@ background: #b9962d;
 <a class="btn" href="https://instagram.com/parle_jewellery" target="_blank">📸 Instagram</a>
 <a class="btn" href="https://www.shopier.com/ParleGold" target="_blank">🛒 Shopier Mağaza</a>
 <a class="btn" href="mailto:cmlarlparle@gmail.com">📧 Mail Gönder</a>
-<a class="btn" href="tel:+905353519075">📞 Telefon (Arama)</a>
+<a class="btn" href="https://tel:+905353519075">📞 Telefon (Arama)</a> 
 <a class="btn" href="https://wa.me/905426534382" target="_blank">💬 WhatsApp</a>   
 
 
