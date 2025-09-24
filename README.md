@@ -1,0 +1,2 @@
+# parlecard
+parlegold bilgilendirme
